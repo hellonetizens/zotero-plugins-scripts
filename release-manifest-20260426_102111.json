@@ -1,0 +1,21 @@
+{
+  "timestamp": "20260426_102111",
+  "date": "2026-04-26T10:21:12.808910",
+  "plugins": {
+    "zotero-metadata-plugin": {
+      "version": "1.0.0",
+      "xpi_file": "/home/releases/zotero-metadata-plugin-1.0.0-20260426_102111.xpi",
+      "type": "typescript"
+    },
+    "zotero-jisedigi-api": {
+      "version": "1.0.0",
+      "xpi_file": "/home/releases/zotero-jisedigi-api-1.0.0-20260426_102111.xpi",
+      "type": "webext"
+    },
+    "zotero-vercel-ocr": {
+      "version": "1.0.0",
+      "xpi_file": "/home/releases/zotero-vercel-ocr-1.0.0-20260426_102111.xpi",
+      "type": "webext"
+    }
+  }
+}
